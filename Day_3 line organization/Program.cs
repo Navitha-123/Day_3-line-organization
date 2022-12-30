@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            LengthOfTwoLines.calcength();
+            //LengthOfTwoLines.calcength();
+            //Compare2Lines.ComparisonOfTwoLengths();
+            Equal2Lines.CheckLength(4 ,5 ,6 ,7 ,8 ,6,8,3);
         }
     }
 }
